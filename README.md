@@ -11,4 +11,5 @@ If two of the numbers are the same, the result is 10.
 • inputof1,1,2→10
 ```
 
-# Screen Shot of the Test Output 
+# Screen Shot of the Test Output
+<img width="622" alt="Green_Ticket" src="https://user-images.githubusercontent.com/107374333/213901403-ebecffac-824c-40d3-aed2-170d257a7f12.png">
